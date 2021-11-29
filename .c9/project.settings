@@ -5,6 +5,7 @@
     "extensions": {
         "@aws.cfnSchemaVersion": "v5.2.11",
         "@aws.samSchemaVersion": "v5.2.11",
+        "@json.schemas": [],
         "@yaml.customTags": [
             "!And",
             "!And sequence",
@@ -70,10 +71,6 @@
     },
     "workspace": {
         "@folders": [
-            {
-                "name": "myapp",
-                "path": "/L5/myapp"
-            },
             {
                 "name": "L6",
                 "path": "/L6"
